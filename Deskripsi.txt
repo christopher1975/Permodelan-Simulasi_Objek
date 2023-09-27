@@ -1,0 +1,9 @@
+   Suatu objek dengan massa 0.15 kg ditembakkan dari permukaan tanah dengan 
+   kecepatan awal 50 m/s dan sudut tembak 35 derajat. Dengan menggunakan 
+   nilai D = 0.0013 dan Delta t = 0.01
+
+1. Hitung dan bandingkan posisi objek sejak ditembakkan hingga sampai ke
+   permukaan tanah dengan mengabaikan dan mempertimbangkan hambatan 
+   udara.
+2. Lakukan validasi terhadap hasil perhitungan numerik untuk kasus yang pertama
+   (tanpa hambatan udara)
